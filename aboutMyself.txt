@@ -4,7 +4,7 @@ USN:1GC24CS130
 Semester:Third
 Section:B
 Branch:Computer Science Engineering
-Year of Admission:2024
+Year of Admission:15-09-2024
 College Name:GCE
 SSLC:Universal Public School
 PU:Ghousia Pre-University College
