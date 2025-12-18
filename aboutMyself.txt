@@ -1,9 +1,8 @@
-Title:Miss
-Full Name:zakiya khanum
+Title:Ms.
+Full Name:ZAKIYA
 USN:1GC24CS130
-Semester:third
-Branch:computer science of engineering
-Year of admission:2024
+Semester:Third
+Section:B
+Branch:Computer Science Engineering
+Year of Admission:2024
 College Name:GCE
-
-
