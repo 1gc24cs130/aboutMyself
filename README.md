@@ -7,5 +7,4 @@ Subject Name:Project Management with GIT
 Subject code:BCS358C
 Academic Year:2025-26
 Mobile No:8792416745
-Email ID:zakiya khanum.gce@gmail.com
 
