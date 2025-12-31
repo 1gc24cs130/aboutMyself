@@ -6,13 +6,8 @@ section:B
 Subject Name:Project Management with GIT
 Subject code:BCS358C
 Academic Year:2025-26
-<<<<<<< HEAD
 Mobile No:12345678
 My Date of Joining to GCE:15th Sept-2024
 Mobile No:8792416745
-<<<<<<< HEAD
 
-
-=======
->>>>>>> dfdd493 (removed email successfully from README.md file)
 
