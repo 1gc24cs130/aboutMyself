@@ -1,12 +1,23 @@
+<<<<<<< HEAD
 Title:Ms.
 Full Name:ZAKIYA KHANUM
 USN:1GC24CS130
 Semester:Third
 Section:B
 Branch:Computer Science Engineering
-Year of Admission:2024
+Year of Admission:15-09-2024
 College Name:GCE
 SSLC:Universal Public School
 PU:Ghousia Pre-University College
 UG Degree:2nd Year BE CSE Branch
 
+=======
+Title:miss
+full Name:zakiya khanum
+USN:1GC24CS130
+Semester:Third
+Section:B
+Branch:Computer science and engineering
+year of Admission:2024
+college Name:GCE
+>>>>>>> 51e781c (Added aboutMyself.txt file successfully)
